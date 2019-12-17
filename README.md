@@ -16,3 +16,11 @@ in linux shell:
 gcc  Draw_ASCII_tool.c
 
 ./a.out
+
+***makefile Compilation instructions:***
+
+in linux shell: 
+
+make
+
+./Draw_ASCII_tool.e
